@@ -29,4 +29,8 @@ composer require honeydt/fatheme
 ```
 $psr4 = ['Theme' =>FCPATH.'themes']
 ```
+Config eviroment to development --> Show debug bar 
+```
+$_SERVER['CI_ENVIRONMENT'] = 'development';
+```
 
