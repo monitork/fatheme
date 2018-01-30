@@ -1,0 +1,20 @@
+{
+    "name": "honeydt/fatheme",
+    "description": "A package that installs Codeigniter's core via Composer.",
+    "keywords": ["codeigniter", "composer", "framework", "mvc", "php"],
+    "homepage": "https://github.com/honeydt/FATheme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rougin Royce Gutib",
+            "email": "rougingutib@gmail.com",
+            "homepage": "https://rougin.github.io",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HoneyDT\\FATheme\\": "src"
+        }
+    },
+}
