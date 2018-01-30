@@ -16,6 +16,12 @@
   "require": {
     "php": ">=7.0"
   },
+  "repositories": [
+        {
+            "url": "https://github.com/honeydt/FATheme.git",
+            "type": "git"
+        }
+  ],
   "require-dev": {
     "phpunit/phpunit": "4.0.*"
   },
