@@ -19,12 +19,12 @@
   "repositories": [{  
         "type": "package",
         "package": {
-            "name": "honeydt/FATheme", //give package name to anything, must be unique
+            "name": "honeydt/FATheme", 
             "version": "1.0",
             "source": {
-                "url": "https://github.com/honeydt/FATheme.git", //git url
+                "url": "https://github.com/honeydt/FATheme.git", 
                 "type": "git",
-                "reference": "master" //git branch-name
+                "reference": "master" 
             }
         }
   }],
