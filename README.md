@@ -23,7 +23,7 @@ SEE THE IMAGE ==> Layout of Theme
 ![Alt text](/screenshot.png?raw=true "Layout")
 1. Install:
 ```
-composer require honeydt/fatheme
+composer require fireantlabs/fatheme
 ```
 2. Go application -> Config -> Autoload.php 
 ```
