@@ -4,7 +4,7 @@ use CodeIgniter\Controller;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
 use CodeIgniter\Log\Logger;
-use HoneyDT\FATheme\Libraries\FATheme;
+use FireAntLabs\FATheme\Libraries\FATheme;
 
 class Demo extends Controller
 {
