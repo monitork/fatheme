@@ -1,5 +1,5 @@
 {
-    "name": "honeydt/fatheme",
+    "name": "fireantlabs/fatheme",
     "description": "A package that installs Codeigniter's core via Composer.",
     "keywords": ["codeigniter", "composer", "framework", "mvc", "php"],
     "homepage": "https://github.com/honeydt/FATheme",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HoneyDT\\FATheme\\": "src"
+            "FireAntLabs\\FATheme\\": "src"
         }
     }
 }
