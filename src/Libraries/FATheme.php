@@ -1,4 +1,4 @@
-<?php namespace HoneyDT\FATheme\Libraries;
+<?php namespace FireAntLabs\FATheme\Libraries;
 
 use HoneyDT\FATheme\Config\Theme;
 
