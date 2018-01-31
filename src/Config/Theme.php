@@ -1,4 +1,4 @@
-<?php namespace HoneyDT\FATheme\Config;
+<?php namespace FireAntLabs\FATheme\Config;
 
 use CodeIgniter\Config\BaseConfig;
 
