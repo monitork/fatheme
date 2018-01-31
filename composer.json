@@ -2,12 +2,12 @@
     "name": "fireantlabs/fatheme",
     "description": "A package that installs Codeigniter's core via Composer.",
     "keywords": ["codeigniter", "composer", "framework", "mvc", "php"],
-    "homepage": "https://github.com/honeydt/FATheme",
+    "homepage": "https://github.com/fireantlabs/fatheme",
     "license": "MIT",
     "authors": [
         {
             "name": "Nguyễn Duy Toại",
-            "email": "ihoney_dt@yahoo.com",
+            "email": "fireantlabs@gmail.com",
             "homepage": "https://fireantlabs.com/",
             "role": "Developer"
         }
